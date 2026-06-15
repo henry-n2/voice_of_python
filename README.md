@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="Voice_of_python_logo.png" width="150" alt="Voice of Python Small Logo">
+</div>
+
+<div align="center">
+  <img src="Voice_of_python3.png" width="800" alt="Voice of Python Big Logo">
+</div>
+
 # voice_of_python
 
 Offline Multilingual Voice Bot Library for Python  
