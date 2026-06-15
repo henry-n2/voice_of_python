@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/henry-n2/voice_of_python/main/Voice_of_python_logo.png" width="150" alt="Voice of Python Small Logo">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/henry-n2/voice_of_python/main/Voice_of_python3.png" width="800" alt="Voice of Python Big Logo">
+  <img src="https://raw.githubusercontent.com/henry-n2/voice_of_python/main/Voice_of_python_logo.png" width="250" alt="Voice of Python Logo">
 </div>
 
 # Voice of Python
