@@ -5,8 +5,8 @@
 # Voice of Python
 > Offline Multilingual Voice Bot Library for Python 🎙️
 
-[![PyPI Version](https://img.shields.io/pypi/v/voice_of_python.svg)](https://pypi.org/project/voice-of-python/)
-[![Python Versions](https://img.shields.io/pypi/pyversions/voice_of_python.svg)](https://pypi.org/project/voice-of-python/)
+[![PyPI Version](https://img.shields.io/pypi/v/voice-of-python.svg)](https://pypi.org/project/voice-of-python/)
+[![Python Versions](https://img.shields.io/pypi/pyversions/voice-of-python.svg)](https://pypi.org/project/voice-of-python/)
 [![License](https://img.shields.io/github/license/henry-n2/voice_of_python.svg)](https://github.com/henry-n2/voice_of_python/blob/main/LICENSE)
 
 `voice_of_python` is a robust Python library providing offline multilingual speech recognition and text-to-speech (TTS) capabilities. Powered by the **Vosk** toolkit for precise offline speech-to-text and **pyttsx3** for offline TTS, it seamlessly supports multiple languages with automatic language detection.
